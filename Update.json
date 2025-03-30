@@ -2,7 +2,7 @@
   "versionCode": 3,
   "versionName": "1.2.0",
   "releaseNotes": "Novos recursos e correções",
-  "mandatory": false,
+  "mandatory": true,
   "apkUrl": "https://github.com/Alimsoftware/HardTimeBR/releases/download/Teste/Hard.Time_Alimsoft_v1.510.64.apk",
   "apkSize": 15674328
 }
